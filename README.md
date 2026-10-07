@@ -8,11 +8,11 @@
 
 ### 1. Markdown Editor & Live Rendering
 > Real-time Markdown parsing with persistent state and live word/character tracking.
-<img src="./screenshots/mark.png" alt="Markdown Editor" width="700" />
+<img src="./screenshots/mark.png" alt="Markdown Editor" width="800" />
 
 ### 2. Custom Directives & Tooltips
 > Implementation of a custom Vue directive (`v-tooltip`) providing helpful contextual information.
-<img src="./screenshots/tip.png" alt="Tooltip Demo" width="700" />
+<img src="./screenshots/tip.png" alt="Tooltip Demo" width="500" />
 
 ### 3. SaaS Pricing Calculator
 > Reactive estimation engine with multi-currency support, interactive sliders, and dynamic CSS pie charts.
@@ -20,7 +20,7 @@
 
 ### 4. Crypto Ticker & Portfolio
 > Live financial tracking connected to the Binance REST API, featuring ApexCharts historical data and portfolio calculations.
-<img src="./screenshots/crypto.png" alt="Crypto Ticker" width="700" />
+<img src="./screenshots/crypto.png" alt="Crypto Ticker" width="400" />
 
 ---
 
